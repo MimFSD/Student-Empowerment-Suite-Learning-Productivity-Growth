@@ -1,6 +1,7 @@
 import React from "react";
 import { HiCalendar, HiCash, HiAcademicCap, HiCheckCircle } from "react-icons/hi";
 
+
 const About = () => {
   return (
     <div className=" text-white min-h-screen pt-20 pb-16">
